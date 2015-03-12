@@ -8,7 +8,7 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'Active'					   => 'Activa'
+	'Active'					   => 'Activa'									,
 	'Actual Cost'                  => 'Costo Real'                 				,
 	'Actual Response Count'        => 'Cantidad de Respuestas Real'             ,
 	'Actual ROI'                   => 'Retorno de Inversión Real'       		,
@@ -19,7 +19,7 @@ $languageStrings = array(
 	'Budget Cost'                  => 'Costo Estimado'              			,
 	'Campaign Name'                => 'Nombre de Campaña'          				,
 	'Campaign No'                  => 'Número de Campaña'              			,
-	'Campaign Status'              => 'EStatus de la Campaña'      				,
+	'Campaign Status'              => 'Estatus de la Campaña'      				,
 	'Campaign Type'                => 'Tipo de Campaña'            				,
 	'Campaigns'                    => 'Campañas'                   				,
 	'Cancelled'                    => 'Cancelada'                   			,
