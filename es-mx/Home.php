@@ -6,25 +6,22 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- *  Author       : Francisco Hernandez Odin Consultores S de RL de CV
- *  Author       : www.odin.mx
- *  Author       : Proudly, the best Vtiger's Partner in Mexico
  ************************************************************************************/
 $languageStrings = array(
-	'ALVT'                         => 'Cuentas Importantes'         , 
-	'PLVT'                         => 'Oportunidades Importantes'   , 
-	'QLTQ'                         => 'Cotizaciones Importantes'    , 
-	'CVLVT'                        => 'Medidas Clave'               , 
-	'HLT'                          => 'Casos más importantes'      , 
-	'GRT'                          => 'Asignación de Grupo'        , 
-	'OLTSO'                        => 'Pedidos de Venta Importantes', 
-	'ILTI'                         => 'Facturas Importantes'        , 
-	'HDB'                          => 'Cuadro Mando Inicio'         , 
-	'OLTPO'                        => 'Ordenes de Compra Importantes', 
-	'LTFAQ'                        => 'FAQs Recientes'              , 
-	'UA'                           => 'Eventos Próximos'           , 
-	'PA'                           => 'Eventos Pendientes'          , 
-    'Home'                         => 'Inicio'                     ,
-    'Key Metrics'                  => 'Métricas clave'             ,
-	'Tag Cloud'                    => 'Nube de etiquetas'          ,
+	'ALVT'                         => 'Cuentas Más Importantes', 
+	'PLVT'                         => 'Oportunidades Más Importantes', 
+	'QLTQ'                         => 'Cotizaciones Más Importantes', 
+	'CVLVT'                        => 'Métricas Clave', 
+	'HLT'                          => 'Casos de Soporte Más Importantes', 
+	'GRT'                          => 'Mi Asignación de Grupo', 
+	'OLTSO'                        => 'Pedidos de Venta Más Importantes', 
+	'ILTI'                         => 'Notas de Venta Más Importantes', 
+	'HDB'                          => 'Tablero de la Página Principal', 
+	'OLTPO'                        => 'Órdenes de Compra Más Importantes', 
+	'LTFAQ'                        => 'Mis Preguntas Frecuentes Más Recientes', 
+	'UA'                           => 'Actividades Próximas', 
+	'PA'                           => 'Actividades Pendientes', 
+    'Home'                         => 'Inicio',
+    'Key Metrics'                  => 'Métricas clave',
+	'Tag Cloud'                    => 'Nube de Etiquetas',
 );
