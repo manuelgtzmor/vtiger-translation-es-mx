@@ -6,9 +6,6 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- *  Author       : Francisco Hernandez Odin Consultores S de RL de CV
- *  Author       : www.odin.mx
- *  Author       : Proudly, the best Vtiger's Partner in Mexico
  ************************************************************************************/
 $languageStrings = array(
 	'Events'                       => 'Eventos'                     , 
@@ -16,27 +13,28 @@ $languageStrings = array(
 	'LBL_ADD_RECORD'               => 'Agregar Evento'              , 
 	'LBL_RECORDS_LIST'             => 'Vista de Lista'              , 
 	'LBL_EVENTS'                   => 'Eventos'                     , 
-	'LBL_TODOS'                    => 'Por Hacer'                   , 
-	'LBL_HOLD_FOLLOWUP_ON'         => 'Mantenga Seguimiento En'     ,
-    'LBL_CREATE_FOLLOWUP_EVENT'    => 'Crear Seguimiento de eventos',
+	'LBL_TODOS'                    => 'Tareas Pendientes'           , 
+	'LBL_HOLD_FOLLOWUP_ON'         => 'Dar Seguimiento El'          ,
+    'LBL_CREATE_FOLLOWUP_EVENT'    => 'Crear Evento de Seguimiento' ,
 	'LBL_EVENT_INFORMATION'        => 'Detalle del evento'          , 
 	'LBL_RECURRENCE_INFORMATION'   => 'Detalles de recurrencia'     , 
 	'LBL_RELATED_TO'               => 'Relacionado a'               , 
 	'Start Date & Time'            => 'Fecha y Hora de Inicio'      , 
-	'Recurrence'                   => 'Recurrencia'                 , 
+	'Recurrence'                   => 'Repetir'                     , 
 	'Send Notification'            => 'Enviar notificación'         ,
 	'Location'                     => 'Lugar'                       , 
-	'Send Reminder'                => 'Enviar recordatorio'         , 
+	'Send Reminder'                => 'Enviar Recordatorio por Correo con Anticipación', 
 	'End Date & Time'              => 'Fecha y Hora de Vencimiento' , 
 	'Activity Type'                => 'Tipo de Actividad'           , 
 	'Visibility'                   => 'Visibilidad'                 , 
 	'Private'                      => 'Privado'                     , 
 	'Public'                       => 'Publico'                     , 
 	'Call'                         => 'Llamada'                     , 
-	'Meeting'                      => 'Reunión'                     , 
+	'Meeting'                      => 'Reunión'                     ,
+	'Mobile Call'                  => 'Llamada al celular'          ,
 	'Planned'                      => 'Planeada'                    , 
-	'Held'                         => 'Mantenida'                   , 
-	'Not Held'                     => 'No Mantenida'                , 
+	'Held'                         => 'Llevada a Cabo'              , 
+	'Not Held'                     => 'No Llevada a Cabo'           , 
 	'LBL_DAYS'                     => 'Días'                        , 
 	'LBL_HOURS'                    => 'Horas'                       , 
 	'LBL_DAYS_TYPE'                => 'Día(s)'                      , 
@@ -64,10 +62,17 @@ $languageStrings = array(
 	'Monthly'                      => 'Mes(es)'                     , 
 	'Yearly'                       => 'Año'                         , 
 	'LBL_REPEATEVENT'              => 'Una vez en cada'             , 
-	'LBL_UNTIL'                    => 'Hasta'                       , 
+	'LBL_UNTIL'                    => 'Hasta el'                    , 
 	'LBL_DAY_OF_THE_MONTH'         => 'Día del mes'                 , 
 	'LBL_ON'                       => 'en'                          , 
 	'LBL_CALENDAR_VIEW'            => 'Vista de Calendario'         , 
 	'LBL_INVITE_USER_BLOCK'        => 'Invitar'                     , 
-	'LBL_INVITE_USERS'             => 'Usuarios invitados'          , 
+	'LBL_INVITE_USERS'             => 'Invitar Usuarios'            ,
+	'Busy'                         => 'Ocupado'                     ,
+	'INVITATION'                   => 'Invitación '                 ,
+
+	//Valores de la lista desplegable "Prioridad" 
+	'High'                         => 'Alta'                        ,
+    'Medium'                       => 'Media'                       , 
+    'Low'                          => 'Baja'                        ,
 );
