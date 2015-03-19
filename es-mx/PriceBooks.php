@@ -6,20 +6,16 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- *  Author       : Francisco Hernandez Odin Consultores S de RL de CV
- *  Author       : www.odin.mx
- *  Author       : Proudly, the best Vtiger's Partner in Mexico
  ************************************************************************************/
 $languageStrings = array(
-	'PriceBooks'                   => 'Listas de precios'           , 
-	'SINGLE_PriceBooks'            => 'Lista de precios'            , 
-	'LBL_ADD_RECORD'               => 'Agregar lista de precios'    , 
-	'LBL_RECORDS_LIST'             => 'Registros de listas de precios'  , 
-	'LBL_PRICEBOOK_INFORMATION'    => 'Información de Lista de precios:', 
-	'LBL_EDIT_LIST_PRICE'          => 'Editar lista de precios'     , 
-	'Price Book Name'              => 'Nombre de Lista de precios'  , 
-	'PriceBook No'                 => 'Nº Lista de precios'        , 
-	
-	'LBL_UNIT_PRICE' 			   => 'Precio unitario',
+	'PriceBooks'                   => 'Listas de Precios'           , 
+	'SINGLE_PriceBooks'            => 'Lista de Precios'            , 
+	'LBL_ADD_RECORD'               => 'Agregar Lista de Precios'    , 
+	'LBL_RECORDS_LIST'             => 'Listas de Precios'  , 
+	'LBL_PRICEBOOK_INFORMATION'    => 'Detalles de la Lista de Precios:', 
+	'LBL_EDIT_LIST_PRICE'          => 'Editar Lista de Precios'     , 
+	'Price Book Name'              => 'Nombre de la Lista de precios'  , 
+	'PriceBook No'                 => 'Número de Lista de precios'        , 
+	'LBL_UNIT_PRICE' 			   => 'Precio Unitario',
 	'LBL_ADD_TO'   				   => 'Agregar a',
 );
