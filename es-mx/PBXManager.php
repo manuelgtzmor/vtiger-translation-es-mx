@@ -6,18 +6,34 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- *  Author       : Francisco Hernandez Odin Consultores S de RL de CV
- *  Author       : www.odin.mx
- *  Author       : Proudly, the best Vtiger's Partner in Mexico
  ************************************************************************************/
 $languageStrings = array(
 	'Asterisk'                     => 'Asterisk'                    , 
 	'PBXManager'                   => 'Administrador PBX'           , 
-	'SINGLE_PBXManager'            => 'Administrador PBX'           , 
-	'LBL_CALL_INFORMATION'         => 'Detalles de llamada'         , 
+	'SINGLE_PBXManager'            => 'Registro de Llamada'           ,
+
+	//Blocks
+	'LBL_CALL_INFORMATION'         => 'Detalles de la Llamada',
+	'LBL_PBXMANAGER_INFORMATION'   => 'Detalles del Administrador PBX',
+    'LBL_CUSTOM_INFORMATION'       => 'Información Personalizada',
+
+	//Detail view header title 
 	'Call From'                    => 'Llamada de'                  , 
 	'Call To'                      => 'Llamada a'                    , 
-	'Time Of Call'                 => 'Tiempo de la Llamada'           , 
-	'PBXManager ID'                => 'Id PBX Manager'              , 
-	'Note'						   => 'Aqui va la nota Note: <br/>Configure Asterisk Server Details after Installing Vtiger Asterisk Connector in your Asterisk Server',
+
+	'Time Of Call'                 => 'Hora de la Llamada'           , 
+	'PBXManager ID'                => 'Número de Llamada'              , 
+	'Note'						   => 'Nota: <br/>Configure los detalles del Servidor Asterisk después de instalar Vtiger Asterisk Connector 
+									  en su Servidor Asterisk',
+
+	// list view settings links
+    'LBL_SERVER_CONFIGURATION' => 'Configuración de Proveedor',
+    
+    //Incoming call pop-up 
+    'LBL_HIDDEN' => '(OCULTO)', 
+  
+    // Fields
+    'Total Duration' => 'Duración (seg)',
+    'Bill Duration'  => 'Tiempo Cobrado (seg)',
+    'Recording URL' => 'Grabando',
 );
