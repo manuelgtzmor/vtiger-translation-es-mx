@@ -6,9 +6,6 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- *  Author       : Francisco Hernandez Odin Consultores S de RL de CV
- *  Author       : www.odin.mx
- *  Author       : Proudly, the best Vtiger's Partner in Mexico
  ************************************************************************************/
 $languageStrings = array(
 	'SINGLE_ProjectMilestone'      => 'Hito'                        , 
@@ -17,10 +14,10 @@ $languageStrings = array(
     'LBL_PROJECTS_LIST'            => 'Lista de Proyectos'          ,
 	'LBL_TASKS_LIST'               => 'Lista de Tareas'             , 
     'LBL_MILESTONES_LIST'          => 'Lista de Hitos'              ,
-	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Información Hito'       , 
-	'Project Milestone Name'       => 'Nombre Hito'                 , 
-	'Milestone Date'               => 'Fecha Hito'                  , 
-	'Project Milestone No'         => 'Nº Hito'                     , 
+	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Detalles del Hito'       , 
+	'Project Milestone Name'       => 'Nombre del Hito'                 , 
+	'Milestone Date'               => 'Fecha del Hito'                  , 
+	'Project Milestone No'         => 'Número de Hito'                     , 
 	//picklist values
 	'administrative'			 => 'Administrativo',
     'operative'					 => 'Operativo',
