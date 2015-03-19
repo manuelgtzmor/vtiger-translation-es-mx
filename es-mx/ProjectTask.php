@@ -6,30 +6,27 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- *  Author       : Francisco Hernandez Odin Consultores S de RL de CV
- *  Author       : www.odin.mx
- *  Author       : Proudly, the best Vtiger's Partner in Mexico
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_ProjectTask'           => 'Actividad'                   , 
-	'LBL_ADD_RECORD'               => 'Agregar Actividad'           , 
-	'LBL_RECORDS_LIST'             => 'Lista de actividades'        , 
-	'LBL_PROJECT_TASK_INFORMATION' => 'Información Actividad'      , 
-	'LBL_PROJECTS_LIST'            => 'Lista de proyectos'               , 
-	'LBL_TASKS_LIST'               => 'Lista de Actividades'                  , 
-    'LBL_MILESTONES_LIST'          => 'Lista de Hitos'              ,
+	'SINGLE_ProjectTask'            => 'Tarea de Proyecto', 
+	'LBL_ADD_RECORD'                => 'Agregar Tarea de Proyecto', 
+	'LBL_RECORDS_LIST'              => 'Lista de Tareas de Proyecto', 
+	'LBL_PROJECT_TASK_INFORMATION'  => 'Detalles de la Tarea de Proyecto', 
+	'LBL_PROJECTS_LIST'             => 'Lista de Proyectos', 
+	'LBL_TASKS_LIST'                => 'Lista de Tareas', 
+    'LBL_MILESTONES_LIST'           => 'Lista de Hitos',
 	
 	//Field Labels
-	'Project Task Name' 			=> 'Nombre de la actividad',
-    'Project Task No' 				=> 'No. de Actividad',
-    'Project Task Number'			=> 'Número de Actividad',
-	'Status' 						=> 'Estado',
+	'Project Task Name' 			=> 'Nombre de Tarea de Proyecto',
+    'Project Task No' 				=> 'Número de Tarea de Proyecto',
+    'Project Task Number'			=> 'Número de Tarea de Proyecto',
+	'Status' 						=> 'Estatus',
 	'Priority' 						=> 'Prioridad',
     'Progress' 						=> 'Progreso',
-    'Type'							=>'Tipo',
-    'Worked Hours'					=>'Horas trabajadas',
-    'Start Date'					=>'Fecha inicio',
-    'End Date'						=>'Fecha fin',
+    'Type'							=> 'Tipo',
+    'Worked Hours'					=> 'Horas trabajadas',
+    'Start Date'					=> 'Fecha inicio',
+    'End Date'						=> 'Fecha fin',
     'Related To' 					=> 'Relacionado a',
     'administrative' 				=> 'Administrativo',
     'operative' 					=> 'Operativo',
@@ -42,7 +39,7 @@ $languageStrings = array(
     'description' 					=> 'Descripción',
 	'Assigned To' 					=> 'Assignado a',
 	'Open' 							=> 'Abierta',
-	'In Progress' 					=> 'En Progresa',
+	'In Progress' 					=> 'En Progreso',
 	'Completed' 					=> 'Completada',
 	'Deferred' 						=> 'Retrasada',
 	'Canceled ' 					=> 'Cancelada',
