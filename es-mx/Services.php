@@ -6,31 +6,28 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- *  Author       : Francisco Hernandez Odin Consultores S de RL de CV
- *  Author       : www.odin.mx
- *  Author       : Proudly, the best Vtiger's Partner in Mexico
  ************************************************************************************/
 $languageStrings = array(
 	'Services'                     => 'Servicios'                   , 
 	'SINGLE_Services'              => 'Servicio'                    , 
 	'LBL_ADD_RECORD'               => 'Agregar Servicio'            , 
 	'LBL_RECORDS_LIST'             => 'Lista de Servicios'          , 
-	'LBL_SERVICE_INFORMATION'      => 'Información Servicio'       , 
+	'LBL_SERVICE_INFORMATION'      => 'Detalles del Servicio'       , 
 	'LBL_MORE_CURRENCIES'          => 'más monedas'                , 
 	'LBL_PRICES'                   => 'Precios de Servicios'        , 
 	'LBL_PRICE'                    => 'Precio'                      , 
 	'LBL_RESET_PRICE'              => 'Restaurar Precio'            , 
 	'LBL_RESET'                    => 'Restaurar'                   , 
-	'LBL_ADD_TO_PRICEBOOKS'        => 'Agregar a Lista de precios'  , 
-	'Service Name'                 => 'Nombre Servicio'             , 
-	'Service Active'               => 'Servicio Activo'             , 
-	'Service Category'             => 'Categoría de Servicio'         , 
-	'Service No'                   => 'Número Servicio'            , 
-	'Owner'                        => 'Encargado'                 , 
-	'No of Units'                  => 'Número de unidades'            , 
+	'LBL_ADD_TO_PRICEBOOKS'        => 'Agregar a Lista de Precios'  , 
+	'Service Name'                 => 'Nombre del Servicio', 
+	'Service Active'               => 'Activo', 
+	'Service Category'             => 'Categoría', 
+	'Service No'                   => 'Número de Servicio', 
+	'Owner'                        => 'Encargado', 
+	'No of Units'                  => 'Número de Unidades', 
 	'Commission Rate'              => 'Comisión'                   , 
 	'Price'                        => 'Precio'                      , 
-	'Usage Unit'                   => 'Unidades de consumo'         , 
-	'Tax Class'                    => 'Tipo impuesto'               , 
+	'Usage Unit'                   => 'Unidad de Consumo', 
+	'Tax Class'                    => 'Tipo de Impuesto', 
 	'Website'                      => 'Página Web'                 , 
 );
