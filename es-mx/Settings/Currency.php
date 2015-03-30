@@ -6,22 +6,21 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- *  Author       : Francisco Hernandez Odin Consultores S de RL de CV
- *  Author       : www.odin.mx
- *  Author       : Proudly, the best Vtiger's Partner in Mexico
  ************************************************************************************/
 $languageStrings = array(
 	'LBL_ADD_RECORD'               => 'Agregar Moneda'                , 
 	'LBL_EDIT_CURRENCY'            => 'Editar Moneda'               , 
-	'LBL_ADD_NEW_CURRENCY'         => 'Agregar nueva moneda'            , 
-	'LBL_CURRENCY_NAME'            => 'Nombre de la moneda'               , 
-	'LBL_CURRENCY_CODE'            => 'Código de la moneda'               , 
+	'LBL_ADD_NEW_CURRENCY'         => 'Agregar Nueva Moneda'            , 
+	'LBL_CURRENCY_NAME'            => 'Nombre de la Moneda'               , 
+	'LBL_CURRENCY_CODE'            => 'Código de la Moneda'               , 
 	'LBL_CURRENCY_SYMBOL'          => 'Símbolo'                      , 
-	'LBL_CONVERSION_RATE'          => 'Tasa de conversión'             , 
+	'LBL_CONVERSION_RATE'          => 'Tasa de Conversión'             , 
 	'LBL_ENTER_CONVERSION_RATE'    => 'Ingresa la tasa de conversión'       , 
-	'LBL_CURRENCY_STATUS_DESC'     => 'Selecciona la casilla para activar la moneda', 
+	'LBL_CURRENCY_STATUS_DESC'     => 'Selecciona la casilla para marcar esta moneda como Activa', 
 	'LBL_TRANSFER_CURRENCY'        => 'Transferir Moneda'           , 
-	'LBL_CURRENT_CURRENCY'         => 'Moneda Actual'            , 
+	'LBL_CURRENT_CURRENCY'         => 'Moneda Actual'            ,
+
+	//Nombres de monedas 
 	'Albania, Leke'                => 'Albania, Leke'               , 
 	'Argentina, Pesos'             => 'Argentina, Pesos'            , 
 	'Aruba, Guilders'              => 'Aruba, Guilders'             , 
@@ -153,7 +152,8 @@ $languageStrings = array(
 	'Tunisian, Dinar'              => 'Tunisian, Dinar'             , 
 	'Moroccan, Dirham'             => 'Moroccan, Dirham'            , 
 );
+
 $jsLanguageStrings = array(
-	'JS_CURRENCY_DETAILS_SAVED'    => 'Detalles de moneda guardados'      , 
-	'JS_CURRENCY_DELETED_SUEESSFULLY' => 'Moneda eliminada exitosamente', 
+	'JS_CURRENCY_DETAILS_SAVED'    => 'Detalles de Moneda Guardados', 
+	'JS_CURRENCY_DELETED_SUEESSFULLY' => 'Moneda Eliminada Exitosamente', 
 );
