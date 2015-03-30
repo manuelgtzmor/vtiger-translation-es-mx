@@ -6,19 +6,16 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- *  Author       : Francisco Hernandez Odin Consultores S de RL de CV
- *  Author       : www.odin.mx
- *  Author       : Proudly, the best Vtiger's Partner in Mexico
  ************************************************************************************/
 $languageStrings = array(
 	'Vendors'                      => 'Proveedores'                 , 
 	'SINGLE_Vendors'               => 'Proveedor'                   , 
 	'LBL_ADD_RECORD'               => 'Agregar Proveedor'           , 
-	'LBL_RECORDS_LIST'             => 'Lista de proveedores'        , 
-	'LBL_VENDOR_INFORMATION'       => 'Información sobre Proveedores:', 
+	'LBL_RECORDS_LIST'             => 'Lista de Proveedores'        , 
+	'LBL_VENDOR_INFORMATION'       => 'Detalles del Proveedor', 
 	'LBL_VENDOR_ADDRESS_INFORMATION' => 'Información sobre la Dirección:', 
-	'Vendor Name'                  => 'Proveedor'                   , 
-	'Vendor No'                    => 'Núm. Proveedor'             , 
+	'Vendor Name'                  => 'Nombre del Proveedor'                   , 
+	'Vendor No'                    => 'Número de Proveedor'             , 
 	'Website'                      => 'Página Web'                 , 
 	'GL Account'                   => 'Cuenta Contable'             , 
 	'300-Sales-Software'           => '300-Ventas-Software'         , 
@@ -32,7 +29,7 @@ $languageStrings = array(
 	'308-Sales-Books'              => '308-Ventas-Libros'           , 
 );
 $jsLanguageStrings = array(
-	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Seguro que lo quieres borrar?', 
-	'LBL_DELETE_CONFIRMATION'      => 'Borrando a este proveedor, se eliminarán también sus ordenes de compra relacionadas; Estas seguro que deseas eliminar a este proveedor?', 
-	'LBL_MASS_DELETE_CONFIRMATION' => 'Borrando a estos proveedores, se eliminarán también sus ordenes de compra relacionadas; Estas seguro que deseas eliminar estos proveedores?', 
+	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => '¿Seguro que lo quieres eliminar?', 
+	'LBL_DELETE_CONFIRMATION'      => 'Eliminando a este proveedor, se eliminarán también sus ordenes de compra relacionadas. ¿Estás seguro que deseas eliminar a este proveedor?', 
+	'LBL_MASS_DELETE_CONFIRMATION' => 'Eliminando a estos proveedores, se eliminarán también sus ordenes de compra relacionadas. ¿Estás seguro que deseas eliminar estos proveedores?', 
 );

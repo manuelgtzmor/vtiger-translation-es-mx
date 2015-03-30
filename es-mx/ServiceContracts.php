@@ -6,23 +6,21 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- *  Author       : Francisco Hernandez Odin Consultores S de RL de CV
- *  Author       : www.odin.mx
- *  Author       : Proudly, the best Vtiger's Partner in Mexico
  ************************************************************************************/
 $languageStrings = array(
-	'ServiceContracts'             => 'Contratos de Servicio'       , 
-	'SINGLE_ServiceContracts'      => 'Contrato de Servicio'        , 
+	'ServiceContracts'             => 'Contratos de Servicio',
+	'Service Contracts'            => 'Contratos de Servicio',
+	'SINGLE_ServiceContracts'      => 'Contrato de Servicio', 
 	'LBL_ADD_RECORD'               => 'Agregar Contrato de Servicio', 
 	'LBL_RECORDS_LIST'             => 'Lista de Contratos de Servicio', 
-	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Información de Contrato de Servicio', 
+	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Detalles del Contrato de Servicio', 
 	'Contract No'                  => 'Número de Contrato'         , 
-	'Start Date'                   => 'Fecha inicio'                , 
-	'End Date'                     => 'Fecha fin'                   , 
-	'Tracking Unit'                => 'Unidad de seguimiento'       , 
-	'Total Units'                  => 'Total Unidades'              , 
-	'Used Units'                   => 'Unidades consumidas'         , 
+	'Start Date'                   => 'Fecha de Inicio'                , 
+	'End Date'                     => 'Fecha de Finalización'                   , 
+	'Tracking Unit'                => 'Unidad de Seguimiento'       , 
+	'Total Units'                  => 'Total de Unidades'              , 
+	'Used Units'                   => 'Unidades Consumidas'         , 
 	'Progress'                     => 'Progreso (en %)'             , 
-	'Planned Duration'             => 'Duración estimada (días)'  , 
-	'Actual Duration'              => 'Duración real (días)'      , 
+	'Planned Duration'             => 'Duración Estimada (días)'  , 
+	'Actual Duration'              => 'Duración Real (días)'      , 
 );
