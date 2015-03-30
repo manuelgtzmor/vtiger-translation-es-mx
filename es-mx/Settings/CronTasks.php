@@ -6,16 +6,13 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- *  Author       : Francisco Hernandez Odin Consultores S de RL de CV
- *  Author       : www.odin.mx
- *  Author       : Proudly, the best Vtiger's Partner in Mexico
  ************************************************************************************/
 $languageStrings = array(
 	'CronTasks'                    => 'Programador de Eventos'                   , 
 	'Id'                           => 'Id'                          , 
-	'Cron Job'                     => 'Cron Job'                    , 
+	'Cron Job'                     => 'Trabajo Cron', 
 	'Frequency'                    => 'Frecuencia'                   , 
-	'Status'                       => 'Estado'                      , 
+	'Status'                       => 'Estatus'                      , 
 	'Last Start'                   => 'Última vez que inició'           , 
 	'Last End'                     => 'Última vez que terminó'             , 
 	'Sequence'                     => 'Secuencia'                    , 
