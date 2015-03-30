@@ -6,12 +6,9 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- *  Author       : Francisco Hernandez Odin Consultores S de RL de CV
- *  Author       : www.odin.mx
- *  Author       : Proudly, the best Vtiger's Partner in Mexico
  ************************************************************************************/
 $languageStrings = array(
-	'EmailTemplate'                => 'Plantilla de correo'              , 
+	'EmailTemplate'                => 'Plantilla de Correo', 
 	'LBL_TEMPLATE_NAME'            => 'Nombre de Plantilla'         , 
 	'LBL_DESCRIPTION'              => 'Descripción'                , 
 	'LBL_SUBJECT'                  => 'Asunto'                     , 
